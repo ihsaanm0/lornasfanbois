@@ -47,6 +47,8 @@ Milestone 1 will be the research phase of the project, and result in foundationa
 
 Key deliverables: <br />
 * Solid foundational research from which to begin developing low fidelity prototypes for user testing.<br />
+* Pain points for target audience identified
+* Gain generators for target audience identified
  <hr />
 
 ### Milestone 2
@@ -55,7 +57,7 @@ Project Phase: User Testing <br />
 Standup: Tuesday, 12/09/17 <br />
 _Concludes: Friday, Week 8 (15/09/17)_<br /><br />
 
-This milestone will include the project team presenting their progress. Currently, Milestone 2 is intended to be a rapid iteration of low-fidelity, horizontal prototyping and user testing. The goal of this milestone is to generate a design direction to being development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a strong, functional prototype for the Digital Showcase. <br />
+This milestone will include the project team presenting their progress in a standup. Currently, Milestone 2 is intended to be a rapid iteration of low-fidelity, horizontal prototyping and user testing. The goal of this milestone is to generate a design direction to begin development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a complete model of a functional system for the Digital Showcase. <br />
 
 Key deliverables: <br />
 * User testing results from performing paper prototyping.
@@ -79,6 +81,7 @@ Key deliverables:
 
 ### Milestone 4 
 Project Phase: Development<br />
+Standup: Tuesday, 03/10/17 <br />
 _Concludes: Friday, Week 10 (06/10/17)_<br />
 <br />
 Finished product
@@ -111,6 +114,7 @@ Key Deliverables: <br />
 
 ### Milestone 6 
 Project Phase: Testing and Finalisation<br />
+Standup: Tuesday, 17/10/17 <br />
 _Concludes: Friday, Week 12 (20/10/17)_<br /><br />
 Project due 27/10/2017 <br />
 This Milestone will aim to have the <span title="Minimum Viable Product">MVP</span> of the system completed to a high standard. Promotional materials should be ready for feedback and finalisation at this point also. During this milestone final feedback will be gathered ready for final features and improvement by Milestone 7.
