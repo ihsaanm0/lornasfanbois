@@ -40,16 +40,17 @@ Testing and Finalisation | **Milestone 6** | 20/10/17 | **12** | (_Tues 17/10_) 
 
 
 ### Milestone 1 <br />
-_Concludes: Friday, Week 7 (08/09/17)_<br />
+_Concludes: Friday, Week 7 (08/09/17)_<br /><br />
 Milestone 1 will be the research phase of the project, and result in foundational research that will inform the teams early prototypes, and assist the project team compile a list of pain points and gain generators for the target audience.
 <br />
 
 Key deliverables: <br />
-* A solid foundation of research from which to begin developing low fidelity prototypes for user testing.<br />
+* Solid foundational research from which to begin developing low fidelity prototypes for user testing.<br />
  <hr />
 
 ### Milestone 2
 _Concludes: Friday, Week 8 (15/09/17)_<br />
+Standup: Tuesday, 12/09/17<br /><br />
 This milestone will include the project team presenting their progress. Currently, Milestone 2 is intended to be a rapid iteration of user testing. The goal of this milestone is to generate a design direction to being development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a strong, functional prototype for the Digital Showcase. <br />
 
 Key deliverables: <br />
@@ -68,12 +69,13 @@ Horizontal Hi-fi prototype that has been tested and has had feedback implemented
 <hr />
 
 ### Milestone 3
-_Concludes: Friday, Week 9 (22/10/17)_<br />
+_Concludes: Friday, Week 9 (22/10/17)_<br /><br />
 Build an actual web app - for testing. Functional testing?
 Front end - done in actual HTML/JS ?f
 Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
+<br />
 Key deliverables:
-Draft web application that simulates key functionality 
+
 <hr />
 
 ### Milestone 4 
@@ -96,15 +98,19 @@ Key Deliverable: Minimum Viable Product of the application
 _Concludes: Friday, Week 11 (15/09/17)_<br />
 Perform another round of user testing for the final.
 
+
+
 <hr />
 
 ### Milestone 6 
 _Concludes: Friday, Week 12 (15/09/17)_<br />
-Project due 27/10/2017
+Project due 27/10/2017 <br />
+This Milestone will aim to have the <span title="Minimum Viable Product">MVP</span> of the system completed to a high standard. Promotional materials should be ready for feedback and finalisation at this point also. During this milestone final feedback will be gathered ready for final features and improvement by Milestone 7.
 
 Key deliverable:
 <br />
-<span title="Minimum Viable Product">MVP</span>
+* <span title="Minimum Viable Product">MVP</span> complete
+* Draft promotional material ready for finalisation
 
 <hr />
 
