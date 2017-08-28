@@ -1,8 +1,18 @@
 # TeachHub by lornasFanBois
 
-## Introduction
+**Target Audience:** Teachers with fewer than five years of teaching experience
 
-Teachers across Australia teach the same curriculum. Each of them go home to do more work planning for their next lessons. This reduces the free-time teachers may have. Our idea helps solve this issue by allowing teachers to share and create lesson plans in one area where other teachers could use them. This would cut down the time teachers spend outside of class to prepare for future lessons.
+## Introduction
+The dilemma that is being addressed by this project is the issue of low retention among teachers who have been in education for less than five years. This issue impacts on factors such as the quality of education students receive, a shortage of teachers with increasing student numbers, and an aging teacher population that is not being replaced or passing on skills. While this is not an issue that can be directly addressed and solved here, tools can be developed to help mitigate factors that contribute to this issue. This project aims to develop an application that will enable teachers to establish a community, and seek and provide support and resources to one another.
+
+<br />
+
+The first factor this aims to mitigate is the large amount of additional planning work teachers are expected to do outside work hours. This is an issue that has been directly attributed to new teacher attrition. With the introduction of the national curriculum, many teachers are delivering similar lessons and content, and are expected to plan each lesson they delivers, without being given time within work hours to do so. TeachHub allows teachers to share lesson plans, content, and advice on effective teaching methods. This will help new teachers develop skills, and reduce the amount of additional work teachers much complete outside work hours. Additionally, it will help teachers find mentors, and develop a sense of community, which is another factor that impacts teacher retention.
+
+<br/>
+
+Many new teachers who leave education identify a lack of support and mentorship as a heavy contributor to their choice. New teachers are not given adequate support and guidance in order to develop necessary skills to succeed. This issue stems from teachers not having spare time to take on additional roles as they are occupied with their own workload. Through TeachHub, new teachers will be able to connect with each other and more experience teachers, and develop a support network where they can seek guidance and mentorship, as well as reduce their considerable workload.
+
 
 ## Concept
 
@@ -135,7 +145,7 @@ Project Phase: Testing and Finalisation<br />
 Social and Mobile Showcase (4pm) <br />
 _Concludes: Wednesday, Week 13 (25/10/17)_<br />
 <br />
-Social & Mobile Showcase will be the conclusion of this Milestone. The Minimum viable product will be complete, and any features or functionality included in the application will be functional and free of bugs. Any promotional materials 
+Social & Mobile Showcase will be the conclusion of this Milestone. The Minimum viable product will be complete, and any features or functionality included in the application will be functional and free of bugs. Any promotional materials will be finished to a high and complete standard and printed ready for display. 
 
 Key Deliverables: <br />
 * An electronic prototype complete to a high standard that performs key functionality (free of bugs).
@@ -158,10 +168,6 @@ Key Deliverables:<br />
 <br />
 <br />
 
-**Tags** : ... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
-<br />
-
-Possible keywords associated with domain: sharing, collaboration
 
 ## Grades Breakdown
 
@@ -172,3 +178,11 @@ Possible keywords associated with domain: sharing, collaboration
 * (10%) Promotional materials
 
 Total: 40% weighted
+
+<br />
+**Tags** : ... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+<br />
+
+Possible keywords associated with domain: sharing, collaboration
+
+
