@@ -57,5 +57,5 @@ Key Deliverable: Minimum Viable Product of the application
 Milestone 5 - (Week 11)
 Perform another round of user testing for the final.
 
-Milestone 6 - (Week 12)
+Milestone 6 - (Week 12)<br />
 Project due 27/10/2017
