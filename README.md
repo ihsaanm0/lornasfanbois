@@ -93,13 +93,13 @@ UI Design
 Simulation
 User testing
 Integration of user feedback
-* 
 
 
-Possible keywords associated with domain: sharing, collaboration
 
 Key Deliverable: 
 * Complete, or nearly complete, <span title="Minimum Viable Product">MVP</span>
+* User feedback and development plan based on feedback.
+* Draft promotional materials (poster, brochure).
 
 <hr />
 
@@ -111,7 +111,8 @@ Perform another round of user testing for the final.
 <br />
 Key Deliverables: <br />
 
-* ...
+* Draft printing (if appropriate)
+* Promotional materials ready for finalisation and draft printing (if necessary)
 
 <hr />
 
@@ -125,7 +126,7 @@ This Milestone will aim to have the <span title="Minimum Viable Product">MVP</sp
 Key deliverable:
 <br />
 * <span title="Minimum Viable Product">MVP</span> complete
-* Draft promotional material ready for finalisation
+* Promotional materials complete and ready for print
 
 <hr />
 
@@ -134,10 +135,12 @@ Project Phase: Testing and Finalisation<br />
 Social and Mobile Showcase (4pm) <br />
 _Concludes: Wednesday, Week 13 (25/10/17)_<br />
 <br />
+Social & Mobile Showcase will be the conclusion of this Milestone. The Minimum viable product will be complete, and any features or functionality included in the application will be functional and free of bugs. Any promotional materials 
 
 Key Deliverables: <br />
-* An electronic prototype that performs key functionality free of bugs.
+* An electronic prototype complete to a high standard that performs key functionality (free of bugs).
 * Promotional materials completed to a high and professional standard.
+* Pitch and any additional materials ready ahead of time.
 
 <hr />
 
@@ -156,6 +159,9 @@ Key Deliverables:<br />
 <br />
 
 **Tags** : ... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+<br />
+
+Possible keywords associated with domain: sharing, collaboration
 
 ## Grades Breakdown
 
