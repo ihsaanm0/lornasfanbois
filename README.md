@@ -24,19 +24,14 @@ Trello will be used to keep fellow team members informed of what is being worked
 
 ## Plan
 
-Plan: Identify the key tasks that need to be completed and when. <br />
-<br />
-*Identify:* <br />
-Project phases e.g. research; requirements; design; construction; <br />
-Key deliverables for each phase (Milestones) <br /> 
-Resources – equipment or other tools/people you might need. <br /><br />
+
 
 Project Phase| Milestone | Date | Week | Info|
 --- | --- | --- | --- |--- |
 Research | **Milestone 1** | 08/09/17 | **7** |
 User Testing | **Milestone 2** | 15/09/17 | **8** | User testing performed. <br /> (_Standup.Tuesday 12/09_)
 Development | **Milestone 3** | 22/09/17 | **9** |
-| - |   SWOTVAC | 23/09 - 01/10 | - | -
+| |   SWOTVAC | 23/09/17 - 01/10/17 | - | -
 | | **Milestone 4** | 06/10/17 | **10** | (_Tues 03/10_) Standup.
 | | **Milestone 5** | 13/10/17 | **11** |
 Testing and Finalisation | **Milestone 6** | 20/10/17 | **12** | (_Tues 17/10_) Standup. 
@@ -44,10 +39,23 @@ Testing and Finalisation | **Milestone 6** | 20/10/17 | **12** | (_Tues 17/10_) 
 | | **Milestone 7.5** | 27/10/17 | **13** | (_Fri, 5pm_) **Final submission**
 
 
-### Milestone 1 - Friday, Week 7 (08/09/17)<br />
-paper prototyping done. Then integrate the feedback for the hi-fi prototype, simulate that and get feedback from Education students.
+### Milestone 1 <br />
+_Concludes: Friday, Week 7 (08/09/17)_<br />
+Milestone 1 will be the research phase of the project, and result in foundational research that will inform the teams early prototypes, and assist the project team compile a list of pain points and gain generators for the target audience.
+<br />
 
-### Milestone 2 - Friday, Week 8 (15/09/17)
+Key deliverables: <br />
+* A solid foundation of research from which to begin developing low fidelity prototypes for user testing.<br />
+ <hr />
+
+### Milestone 2
+_Concludes: Friday, Week 8 (15/09/17)_<br />
+This milestone will include the project team presenting their progress. Currently, Milestone 2 is intended to be a rapid iteration of user testing. The goal of this milestone is to generate a design direction to being development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a strong, functional prototype for the Digital Showcase. <br />
+
+Key deliverables: <br />
+* User testing results from performing paper prototyping.
+* A design direction that provides the project team with a starting point to begin development of an electronic prototype. <br /> 
+
 Standup no. 1 will take place this week on 12/09
 Research - interviews and information gathering
 Idea refinement and finalisation
@@ -57,15 +65,17 @@ Paper prototyping - performed and feedback integrated into the system
 Testing protocol - basic
 Key Deliverables:
 Horizontal Hi-fi prototype that has been tested and has had feedback implemented (basically we have already performed one iteration of our product and acted on one round of feedback
+<hr />
 
-### Milestone 3 (Week 9 - date)
+### Milestone 3 (Week 9 - 22/09)
 Build an actual web app - for testing. Functional testing?
 Front end - done in actual HTML/JS ?f
 Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
 Key deliverables:
 Draft web application that simulates key functionality 
+<hr />
 
-### Milestone 4 (Week 10 - date)
+### Milestone 4 (Week 10 - 06/10)
 
 Finished product
 Tasks:
@@ -79,8 +89,22 @@ Possible keywords associated with domain: sharing, collaboration
 
 Key Deliverable: Minimum Viable Product of the application
 
-Milestone 5 - (Week 11)
+<hr />
+
+### Milestone 5 - (Week 11 13/10)
 Perform another round of user testing for the final.
 
-Milestone 6 - (Week 12)<br />
+<hr />
+
+### Milestone 6 - (Week 12 20/10)<br />
 Project due 27/10/2017
+
+<hr />
+
+### Milestone 7 - ()
+Social and Moile Showcase (Wednesday )
+
+<hr />
+
+### Milestone 7.5 ()
+Final Delivery
