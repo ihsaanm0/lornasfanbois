@@ -67,7 +67,8 @@ Key Deliverables:
 Horizontal Hi-fi prototype that has been tested and has had feedback implemented (basically we have already performed one iteration of our product and acted on one round of feedback
 <hr />
 
-### Milestone 3 (Week 9 - 22/09)
+### Milestone 3
+_Concludes: Friday, Week 9 (22/10/17)_<br />
 Build an actual web app - for testing. Functional testing?
 Front end - done in actual HTML/JS ?f
 Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
@@ -75,8 +76,8 @@ Key deliverables:
 Draft web application that simulates key functionality 
 <hr />
 
-### Milestone 4 (Week 10 - 06/10)
-
+### Milestone 4 
+_Concludes: Friday, Week 10 (06/10/17)_<br />
 Finished product
 Tasks:
 UI Design
@@ -91,20 +92,43 @@ Key Deliverable: Minimum Viable Product of the application
 
 <hr />
 
-### Milestone 5 - (Week 11 13/10)
+### Milestone 5 
+_Concludes: Friday, Week 11 (15/09/17)_<br />
 Perform another round of user testing for the final.
 
 <hr />
 
-### Milestone 6 - (Week 12 20/10)<br />
+### Milestone 6 
+_Concludes: Friday, Week 12 (15/09/17)_<br />
 Project due 27/10/2017
 
+Key deliverable:
+<br />
+<span title="Minimum Viable Product">MVP</span>
+
 <hr />
 
-### Milestone 7 - ()
-Social and Moile Showcase (Wednesday )
+### Milestone 7
+_Concludes: Wednesday, Week 13 (15/09/17)_<br />
+Social and Mobile Showcase (4pm)
+
+Key Deliverables: <br />
+* An electronic prototype that performs key functionality free of bugs
+* Promotional materials completed to a high and profressional standard
 
 <hr />
 
-### Milestone 7.5 ()
+### Milestone 7.5
+_Concludes: Friday, Week 13 (15/09/17)_<br />
 Final Delivery
+
+
+## Grades Breakdown
+
+* (5%) Week 8 standup
+* (5%) Week 10 standup
+* (5%) Week 12 standup
+* (15%) Prototype
+* (10%) Promotional materials
+
+Total: 40% weighted
