@@ -13,6 +13,8 @@ TeachHub aims to create a community in which teachers can communicate, share and
 Judah Bennett (Multimedia Design) - Moral support,Front end, Logistics<br />
 Ihsaan Mahomed (Multimedia Design) -  Designer, UX/UI, Content<br />
 Digby Tilse (Multimedia Design) - Designer, User Testing, Programmer <br /><br />
+
+Group meetings: 12pm, Thursdays in Hawken Engineering Building (50)<br /><br />
 The team will work collaboratively, and employ a diplomatic approach to decision making and idea generation and development. Trello will be used to list tasks that require completion. Group members will nominate tasks they wish to complete, and may employ their own work style in order to complete that task, providing the task is complete by the required deadline. Underperforming group members member will be notified of their underperformance and reminded of their responsibilities towards the group. If this does not resolve the issue, course teaching staff will be consulted in order to resolve the issue. The project will utilise a user-centred design approach, and as such most decisions will be made based on feedback received from users. Where decisions must be made by the group, a diplomatic majority approach will be adopted. Group members will vote on a desired solution, and the majority vote will Decisions will be made based on user feedback primarily, but where necessary the majority rules. Conflict will be resolved by trial by combat.
  
 ## Communication
@@ -49,6 +51,7 @@ Key deliverables: <br />
 * Solid foundational research from which to begin developing low fidelity prototypes for user testing.<br />
 * Pain points for target audience identified
 * Gain generators for target audience identified
+* Begin defining an <span title="Minimum Viable Product">MVP</span>
  <hr />
 
 ### Milestone 2
@@ -61,7 +64,9 @@ This milestone will include the project team presenting their progress in a stan
 
 Key deliverables: <br />
 * User testing results from performing paper prototyping.
-* A design direction that provides the project team with a starting point to begin development of an electronic prototype. <br /> 
+* A design direction that provides the project team with a starting point to begin development of an electronic prototype. 
+* Wireframe drafts of the web application interface.
+* Finalised <span title="Minimum Viable Product">MVP</span><br /> 
 
 <hr />
 
@@ -69,14 +74,12 @@ Key deliverables: <br />
 Project Phase: Development<br />
 _Concludes: Friday, Week 9 (22/10/17)_<br /><br />
 
-Build an actual web app - for testing. Functional testing?
-Front end - done in actual HTML/JS ?f
-Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
-<br />
+This Milestone will cover two weeks, unlike other Milestones, as such the project team will attempt to generate a functional prototype for feedback in Milestone 4, which includes some to most core functionality. 
+<br /><br />
 Key deliverables:
-* UI Draft - front end only 
-* 
-*
+* A HTML and JavaScript interface that simulates interaction.
+* (Optional) Basic back-end functionality.
+* User feedback on the generated prototype.
 <hr />
 
 ### Milestone 4 
@@ -96,7 +99,7 @@ Integration of user feedback
 Possible keywords associated with domain: sharing, collaboration
 
 Key Deliverable: 
-* Key functionality draft
+* Complete, or nearly complete, <span title="Minimum Viable Product">MVP</span>
 
 <hr />
 
