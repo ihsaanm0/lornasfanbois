@@ -51,8 +51,8 @@ Key deliverables: <br />
 
 ### Milestone 2
 
-Project Phase: User Testing<br />
-Standup: Tuesday, 12/09/17<br />
+Project Phase: User Testing <br />
+Standup: Tuesday, 12/09/17 <br />
 _Concludes: Friday, Week 8 (15/09/17)_<br /><br />
 
 This milestone will include the project team presenting their progress. Currently, Milestone 2 is intended to be a rapid iteration of low-fidelity, horizontal prototyping and user testing. The goal of this milestone is to generate a design direction to being development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a strong, functional prototype for the Digital Showcase. <br />
@@ -94,7 +94,8 @@ Key Deliverable: Minimum Viable Product of the application
 <hr />
 
 ### Milestone 5 
-_Concludes: Friday, Week 11 (15/09/17)_<br /><br />
+Project Phase: Development<br />
+_Concludes: Friday, Week 11 (13/10/17)_<br /><br />
 Perform another round of user testing for the final.
 
 
@@ -102,7 +103,8 @@ Perform another round of user testing for the final.
 <hr />
 
 ### Milestone 6 
-_Concludes: Friday, Week 12 (15/09/17)_<br /><br />
+Project Phase: Testing and Finalisation<br />
+_Concludes: Friday, Week 12 (20/10/17)_<br /><br />
 Project due 27/10/2017 <br />
 This Milestone will aim to have the <span title="Minimum Viable Product">MVP</span> of the system completed to a high standard. Promotional materials should be ready for feedback and finalisation at this point also. During this milestone final feedback will be gathered ready for final features and improvement by Milestone 7.
 
@@ -114,19 +116,27 @@ Key deliverable:
 <hr />
 
 ### Milestone 7
-_Concludes: Wednesday, Week 13 (15/09/17)_<br />
+Project Phase: Testing and Finalisation<br />
+_Concludes: Wednesday, Week 13 (25/10/17)_<br />
 Social and Mobile Showcase (4pm)
 
 Key Deliverables: <br />
-* An electronic prototype that performs key functionality free of bugs
-* Promotional materials completed to a high and profressional standard
+* An electronic prototype that performs key functionality free of bugs.
+* Promotional materials completed to a high and professional standard.
 
 <hr />
 
 ### Milestone 7.5
-_Concludes: Friday, Week 13 (15/09/17)_<br />
-Final Delivery
+Project Phase: Testing and Finalisation<br />
+_Concludes: Friday, Week 13 (27/10/17)_<br />
 
+This Milestone is the conclusion and final delivery of the project.
+<br />
+Key Deliverables:<br />
+* Final application that provides at least minimum viable functionality to a high standard.
+* 
+
+<hr />
 
 ## Grades Breakdown
 
