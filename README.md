@@ -72,7 +72,9 @@ Front end - done in actual HTML/JS ?f
 Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
 <br />
 Key deliverables:
-
+* UI Draft - front end only 
+* 
+*
 <hr />
 
 ### Milestone 4 
@@ -85,11 +87,13 @@ UI Design
 Simulation
 User testing
 Integration of user feedback
-Tags: Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+* 
+
 
 Possible keywords associated with domain: sharing, collaboration
 
-Key Deliverable: Minimum Viable Product of the application
+Key Deliverable: 
+* Key functionality draft
 
 <hr />
 
@@ -98,7 +102,10 @@ Project Phase: Development<br />
 _Concludes: Friday, Week 11 (13/10/17)_<br /><br />
 Perform another round of user testing for the final.
 
+<br />
+Key Deliverables: <br />
 
+* ...
 
 <hr />
 
@@ -117,8 +124,9 @@ Key deliverable:
 
 ### Milestone 7
 Project Phase: Testing and Finalisation<br />
+Social and Mobile Showcase (4pm) <br />
 _Concludes: Wednesday, Week 13 (25/10/17)_<br />
-Social and Mobile Showcase (4pm)
+<br />
 
 Key Deliverables: <br />
 * An electronic prototype that performs key functionality free of bugs.
@@ -130,13 +138,17 @@ Key Deliverables: <br />
 Project Phase: Testing and Finalisation<br />
 _Concludes: Friday, Week 13 (27/10/17)_<br />
 
-This Milestone is the conclusion and final delivery of the project.
+This Milestone is the conclusion and final delivery of the project. 
+<br />
 <br />
 Key Deliverables:<br />
 * Final application that provides at least minimum viable functionality to a high standard.
-* 
+* All promotional material completed to a high standard.
 
-<hr />
+<br />
+<br />
+
+**Tags** : ... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
 
 ## Grades Breakdown
 
