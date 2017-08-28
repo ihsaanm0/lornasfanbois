@@ -31,16 +31,17 @@ Project phases e.g. research; requirements; design; construction; <br />
 Key deliverables for each phase (Milestones) <br /> 
 Resources – equipment or other tools/people you might need. <br /><br />
 
-Project Phase| Milestone | Date | Week | #3 | #4 |
---- | --- | --- | --- |--- |--- |
-Research | **Milestone 1** | 08/09/17 | 7 |
-User Testing | **Milestone 2** | 15/09/17 | 8 | User testing performed
-| | **Milestone 3** | 22/09/17 | 9 |
-| |   SWOTVAC |
-| | **Milestone 4** | 06/10/17 | 10 |
-| | **Milestone 5** | 13/10/17 | 11 |
-| | **Milestone 6** | 20/10/17 | 12 |
-| |**Milestone 7** | 27/10/17 | 13 |
+Project Phase| Milestone | Date | Week | Info|
+--- | --- | --- | --- |--- |
+Research | **Milestone 1** | 08/09/17 | **7** |
+User Testing | **Milestone 2** | 15/09/17 | **8** | User testing performed. <br /> (_Standup.Tuesday 12/09_)
+Development | **Milestone 3** | 22/09/17 | **9** |
+| - |   SWOTVAC | 23/09 - 01/10 | - | -
+| | **Milestone 4** | 06/10/17 | **10** | (_Tues 03/10_) Standup.
+| | **Milestone 5** | 13/10/17 | **11** |
+Testing and Finalisation | **Milestone 6** | 20/10/17 | **12** | (_Tues 17/10_) Standup. 
+| | **Milestone 7** | 25/10/17 | **13** | (_Wed, 4pm_) Social & Mobile showcase
+| | **Milestone 7.5** | 27/10/17 | **13** | (_Fri, 5pm_) **Final submission**
 
 
 ### Milestone 1 - Friday, Week 7 (08/09/17)<br />
