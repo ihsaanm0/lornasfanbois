@@ -1,4 +1,4 @@
-# lornasfanbois
+# TeachHub by lornasFanBois
 
 ## Introduction
 
@@ -10,37 +10,61 @@ TeachHub aims to create a community in which teachers can communicate, share and
 
 ## Project Team
 
-Judah Bennett (Multimedia Design) - Moral support,Front end, Logistics
-Ihsaan Mahomed (Multimedia Design) -  Designer, UX/UI, Content
-Digby Tilse (Multimedia Design) - Designer, User Testing, Back-end, Manager
-The team will work via collaboration, run each of our own ideas by each other in order to build upon them. We will use Trello and work on the tasks required at our own leisure. If the rest of the group feels that anyone member is not contributing enough that said member will be kindly remind of their responsibilities towards the group and if that does not work someone with more authority will be consulted. Decisions will be made based on user feedback primarily, but where necessary the majority rules. Conflict will be resolved by trial by combat.
+Judah Bennett (Multimedia Design) - Moral support,Front end, Logistics<br />
+Ihsaan Mahomed (Multimedia Design) -  Designer, UX/UI, Content<br />
+Digby Tilse (Multimedia Design) - Designer, User Testing, Programmer <br /><br />
+The team will work collaboratively, and employ a diplomatic approach to decision making and idea generation and development. Trello will be used to list tasks that require completion. Group members will nominate tasks they wish to complete, and may employ their own work style in order to complete that task, providing the task is complete by the required deadline. Underperforming group members member will be notified of their underperformance and reminded of their responsibilities towards the group. If this does not resolve the issue, course teaching staff will be consulted in order to resolve the issue. The project will utilise a user-centred design approach, and as such most decisions will be made based on feedback received from users. Where decisions must be made by the group, a diplomatic majority approach will be adopted. Group members will vote on a desired solution, and the majority vote will Decisions will be made based on user feedback primarily, but where necessary the majority rules. Conflict will be resolved by trial by combat.
  
 ## Communication
 
 The primary method of communication for the project will be Slack, with Google Docs and Drive used for collaboration and filestorage. File names will be meaningful (e.g. explain what the file is) and named in camelcase. These platforms have been chosen due to their familiarity (Google Drive), and integration with the course (Slack). Slack is a centralised service that is convenient for sharing many different types of media, and offers functionality that facilitates group collaboration (e.g. pinning important information, integration with Google Drive).
 Trello will be used to keep fellow team members informed of what is being worked on. Tasks will be posed in Trello, and team members will indicate when they are working on that task. This will increase the efficiency and communication of the team.
 
+
+
 ## Plan
 
-Plan: Identify the key tasks that need to be completed and when. Identify: • Project phases e.g. research; requirements; design; construction; • Key deliverables for each phase (Milestones) ; 2 • Resources – equipment or other tools/people you might need. 
-Milestone 1 - Friday, Week 7 (08/09/17)
+Plan: Identify the key tasks that need to be completed and when. <br />
+<br />
+*Identify:* <br />
+Project phases e.g. research; requirements; design; construction; <br />
+Key deliverables for each phase (Milestones) <br /> 
+Resources – equipment or other tools/people you might need. <br /><br />
+
+Project Phase| Milestone | Date | Week | #3 | #4 |
+--- | --- | --- | --- |--- |--- |
+Research | **Milestone 1** | 08/09/17 | 7 |
+User Testing | **Milestone 2** | 15/09/17 | 8 | User testing performed
+| | **Milestone 3** | 22/09/17 | 9 |
+| |   SWOTVAC |
+| | **Milestone 4** | 06/10/17 | 10 |
+| | **Milestone 5** | 13/10/17 | 11 |
+| | **Milestone 6** | 20/10/17 | 12 |
+| |**Milestone 7** | 27/10/17 | 13 |
+
+
+### Milestone 1 - Friday, Week 7 (08/09/17)<br />
 paper prototyping done. Then integrate the feedback for the hi-fi prototype, simulate that and get feedback from Education students.
-Milestone 2 - Friday, Week 8 (15/09/17)
+
+### Milestone 2 - Friday, Week 8 (15/09/17)
 Standup no. 1 will take place this week on 12/09
 Research - interviews and information gathering
 Idea refinement and finalisation
+
+
 Paper prototyping - performed and feedback integrated into the system
 Testing protocol - basic
 Key Deliverables:
 Horizontal Hi-fi prototype that has been tested and has had feedback implemented (basically we have already performed one iteration of our product and acted on one round of feedback
-Milestone 3 (Week 9 - date)
+
+### Milestone 3 (Week 9 - date)
 Build an actual web app - for testing. Functional testing?
-Front end - done in actual HTML/JS ?
+Front end - done in actual HTML/JS ?f
 Depending on the results of week 8 user testing create a Vertical Hi-fi prototype
 Key deliverables:
 Draft web application that simulates key functionality 
 
-Milestone 4 (Week 10 - date)
+### Milestone 4 (Week 10 - date)
 
 Finished product
 Tasks:
