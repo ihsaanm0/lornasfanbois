@@ -3,7 +3,7 @@
 **Target Audience:** Teachers with fewer than five years of teaching experience
 
 ## Introduction
-The dilemma that is being addressed by this project is the issue of low retention among teachers who have been in education for less than five years. This issue impacts on factors such as the quality of education students receive, a shortage of teachers with increasing student numbers, and an aging teacher population that is not being replaced or passing on skills. While this is not an issue that can be directly addressed and solved here, tools can be developed to help mitigate factors that contribute to this issue. This project aims to develop an application that will enable teachers to establish a community, and seek and provide support and resources to one another.
+The dilemma that is being addressed by this project is the issue of low retention of new teachers in education, specifically teachers who have been teaching for less than five years. This issue impacts on factors such as the quality of education students receive, a shortage of teachers with increasing student numbers, and an aging teacher population that is not being replaced or passing on skills. While this is not an issue that can be directly addressed and solved here, tools can be developed to help mitigate factors that contribute to this issue. This project aims to develop an application that will enable teachers to establish a community, and seek and provide support and resources to one another.
 
 <br />
 
@@ -20,9 +20,9 @@ TeachHub aims to create a community in which teachers can communicate, share and
 
 ## Project Team
 
-Judah Bennett (Multimedia Design) - Moral support,Front end, Logistics<br />
-Ihsaan Mahomed (Multimedia Design) -  Designer, UX/UI, Content<br />
-Digby Tilse (Multimedia Design) - Designer, User Testing, Programmer <br /><br />
+**Judah Bennett** (Multimedia Design) - Moral support,Front end, Logistics<br />
+**Ihsaan Mahomed** (Multimedia Design) -  Designer, UX/UI, Content<br />
+**Digby Tilse** (Multimedia Design) - Designer, User Testing, Programmer <br /><br />
 
 Group meetings: 12pm, Thursdays in Hawken Engineering Building (50)<br /><br />
 The team will work collaboratively, and employ a diplomatic approach to decision making and idea generation and development. Trello will be used to list tasks that require completion. Group members will nominate tasks they wish to complete, and may employ their own work style in order to complete that task, providing the task is complete by the required deadline. Underperforming group members member will be notified of their underperformance and reminded of their responsibilities towards the group. If this does not resolve the issue, course teaching staff will be consulted in order to resolve the issue. The project will utilise a user-centred design approach, and as such most decisions will be made based on feedback received from users. Where decisions must be made by the group, a diplomatic majority approach will be adopted. Group members will vote on a desired solution, and the majority vote will Decisions will be made based on user feedback primarily, but where necessary the majority rules. Conflict will be resolved by trial by combat.
@@ -41,7 +41,7 @@ Trello will be used to keep fellow team members informed of what is being worked
 Project Phase| Milestone | Date | Week | Info|
 --- | --- | --- | --- |--- |
 Research | **Milestone 1** | 08/09/17 | **7** |
-User Testing | **Milestone 2** | 15/09/17 | **8** | User testing performed. <br /> (_Standup.Tuesday 12/09_)
+Requirements and User Testing | **Milestone 2** | 15/09/17 | **8** | User testing performed. <br /> (_Standup.Tuesday 12/09_)
 Development | **Milestone 3** | 22/09/17 | **9** |
 | |   SWOTVAC | 23/09/17 - 01/10/17 | - | -
 | | **Milestone 4** | 06/10/17 | **10** | (_Tues 03/10_) Standup.
@@ -66,17 +66,23 @@ Key deliverables: <br />
 
 ### Milestone 2
 
-Project Phase: User Testing <br />
+Project Phase: Requirements and User Testing <br />
 Standup: Tuesday, 12/09/17 <br />
 _Concludes: Friday, Week 8 (15/09/17)_<br /><br />
 
 This milestone will include the project team presenting their progress in a standup. Currently, Milestone 2 is intended to be a rapid iteration of low-fidelity, horizontal prototyping and user testing. The goal of this milestone is to generate a design direction to begin development of an electronic prototype. Through this approach, the project team plans to allow enough time to produce a complete model of a functional system for the Digital Showcase. <br />
 
+<br />
+Requirements will be drawn from interviews and research performed in Milestone 1. <br/>
+<br/> 
+
 Key deliverables: <br />
 * User testing results from performing paper prototyping.
 * A design direction that provides the project team with a starting point to begin development of an electronic prototype. 
 * Wireframe drafts of the web application interface.
-* Finalised <span title="Minimum Viable Product">MVP</span><br /> 
+* Finalised definition of <span title="Minimum Viable Product">MVP</span><br /> 
+
+_Note:_ Requirements and User Testing will continue throughout the project, but will be the specific focus of this phase.
 
 <hr />
 
@@ -84,12 +90,14 @@ Key deliverables: <br />
 Project Phase: Development<br />
 _Concludes: Friday, Week 9 (22/10/17)_<br /><br />
 
-This Milestone will cover two weeks, unlike other Milestones, as such the project team will attempt to generate a functional prototype for feedback in Milestone 4, which includes some to most core functionality. 
+This Milestone will cover two weeks, unlike other Milestones, as such the project team will attempt to generate a functional prototype for feedback in Milestone 4, which includes some to most core functionality. Draft styling for the application will be completed during this Milestone to ensure the final product looks professional.
 <br /><br />
 Key deliverables:
-* A HTML and JavaScript interface that simulates interaction.
-* (Optional) Basic back-end functionality.
+* A HTML and JavaScript interface that (at least) simulates functionality.
 * User feedback on the generated prototype.
+* Draft styling for the application.
+* (Optional) Basic back-end functionality.
+
 <hr />
 
 ### Milestone 4 
@@ -107,16 +115,17 @@ Integration of user feedback
 
 
 Key Deliverable: 
-* Complete, or nearly complete, <span title="Minimum Viable Product">MVP</span>
+* Complete, or nearly complete, <span title="Minimum Viable Product">MVP</span>.
 * User feedback and development plan based on feedback.
 * Draft promotional materials (poster, brochure).
+* Plan for finalisation of system and promotional materials as necessary.
 
 <hr />
 
 ### Milestone 5 
 Project Phase: Development<br />
 _Concludes: Friday, Week 11 (13/10/17)_<br /><br />
-Perform another round of user testing for the final.
+By the conclusion of this milestone, the project team plans to have conducted a final round of user testing. The feedback received from this testing will be applied moving towards Milestone 6. 
 
 <br />
 Key Deliverables: <br />
@@ -168,6 +177,8 @@ Key Deliverables:<br />
 <br />
 <br />
 
+## User Testing
+User testing refers to having users, or representative users (education students) perform testing sessions (run through). Usability testing will also be performed on fellow interaction design students in order to refine the overall user experience. 
 
 ## Grades Breakdown
 
@@ -180,7 +191,8 @@ Key Deliverables:<br />
 Total: 40% weighted
 
 <br />
-**Tags** : ... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+
+**Tags** : #collaboration #social #... Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
 <br />
 
 Possible keywords associated with domain: sharing, collaboration
