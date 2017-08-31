@@ -19,11 +19,11 @@ Many new teachers who leave education identify a lack of support and mentorship 
 TeachHub aims to create a community in which teachers can communicate, share and discover teaching methods and resources, new technologies and how to use them. The application will mainly focus on asynchronous distributed interaction where teachers will create, post, reply in forums. The web application will allow teachers to create and share lesson plans and use ready-made plans across a range of subjects. Lesson plans will have a rating system included which will allow teachers to see how effective the plan is and whether or not it will suit their circumstances. Teachers will also be able to get advice on teaching methods and how to deal with trouble students through a forum provided by the website.
 
 ## Project Team
- | Member | Course Code | Course | Roles |
---- | --- | ---| --- |
-Judah Bennett | DECO3500 | Multimedia Design |  Moral support,Front end, Logistics
-Ihsaan Mahomed | DECO3500 | Multimedia Design | Designer, UX/UI, Content
-Digby Tilse | DECO3500 | Multimedia Design | Designer, User Testing, Programmer
+ | Member | Student Number | Course Code | Course | Roles |
+--- | --- | ---| --- | --- |
+Judah Bennett | | DECO3500 | Multimedia Design |  Moral support,Front end, Logistics
+Ihsaan Mahomed | | DECO3500 | Multimedia Design | Designer, UX/UI, Content
+Digby Tilse | 44351434 | DECO3500 | Multimedia Design | Designer, User Testing, Programmer
 
 
 Group meetings: 12pm, Thursdays in Hawken Engineering Building (50)
