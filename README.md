@@ -172,21 +172,21 @@ Key Deliverables: <br />
 Project Phase: Testing and Finalisation<br />
 _Concludes: Friday, Week 13 (27/10/17)_<br />
 
-This Milestone is the conclusion and final delivery of the project. 
+This Milestone is the conclusion and final delivery of the project. Group members will finalise project-related assets as necessary and ensure they are ready for submission. **The Github repository URL must be uploaded to Blackboard by 5:00pm Friday October 27**.
 <br />
 <br />
 Key Deliverables:<br />
 * Final application that provides at least minimum viable functionality to a high standard.
 * All promotional material completed to a high standard.
 * All relevant project assets. 
-
-<br />
+* The entire project.
 <br />
 
 ## User Testing
 User testing refers to having users, or representative users (education students) perform testing sessions on parts of the system. Different sessions will be run throughout the project and catered to the specific goals of testing sessions. For example, early testing will be performed using paper prototypes, with users asked to complete tasks, and give feedback about their experience. Usability testing will also be performed on fellow interaction design students in order to refine the overall user experience, and ensure best practise is being adhered to. 
 
 
+<hr />
 
 **Tags** : #collaborationAndSharing #social #asynchronousDistributed #CSCW #groupMultiuser #education #jobretention
 <br />
